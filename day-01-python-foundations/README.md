@@ -6,7 +6,6 @@
 - Data types
 - String methods
 - Operators
-- Conditional statements
 
 ## Exercises
 
@@ -16,6 +15,7 @@
 4. Customer Record Cleaner
 5. Pipeline Health Status
 6. Dataset Access Decision
+
 
 ## How to Run
 
@@ -34,4 +34,4 @@ python stretch_dataset_access_descision.py
 I practiced applying core Day 1 concepts like variables, data types, and conditionals to real scenarios. I also experimented with a few concepts beyond what was covered in class, applying them for better structuring and execution of the program, which helped me think more creatively about solving each problem rather than sticking to a single approach.
 
 ## Challenges Faced
-I didn't face any major challenges, as I already had a foundational understanding of the concepts covered. I'm also used to working on development projects as semester projects during my university coursework, so building and structuring small scripts like these felt familiar and straightforward.
+Since I have some prior experience with development projects from my semester coursework, building and structuring small scripts like these felt fairly familiar. I didn't run into major challenges with the core concepts, though I still made an effort to keep each solution clean and well-structured rather than just settling for the first working version.
