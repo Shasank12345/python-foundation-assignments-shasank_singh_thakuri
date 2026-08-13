@@ -14,3 +14,4 @@ This repository contains my assignments and practice exercises from the Python F
 
 - [x] Day 1: Python Foundations
 - [x] Day 2: Control Statements and Collections
+- [x] Day 3: Function and Modules 
