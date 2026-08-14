@@ -1,0 +1,14 @@
+2026-08-14 13:49:48,931 - CRITICAL - Input file not found at path: day-04-python-foundations/orders.csv
+2026-08-14 13:49:48,931 - INFO - Finished reading input CSV
+2026-08-14 13:50:22,326 - CRITICAL - Input file not found at path: day-04-python-foundations/orders.csv
+2026-08-14 13:50:22,326 - INFO - Finished reading input CSV
+2026-08-14 13:51:19,653 - INFO - Row 2: Successfully processed order 1.
+2026-08-14 13:51:19,653 - ERROR - Row 3: could not convert qty/price ('not_a_number', '15.00') - SKIPPED. Reason: could not convert string to float: 'not_a_number'
+2026-08-14 13:51:19,653 - ERROR - Row 4: negative qty or price - SKIPPED
+2026-08-14 13:51:19,653 - INFO - Row 5: Successfully processed order 4.
+2026-08-14 13:51:19,654 - INFO - Finished reading input CSV
+2026-08-14 13:51:44,642 - INFO - Row 2: Successfully processed order 1.
+2026-08-14 13:51:44,643 - ERROR - Row 3: could not convert qty/price ('not_a_number', '15.00') - SKIPPED. Reason: could not convert string to float: 'not_a_number'
+2026-08-14 13:51:44,643 - ERROR - Row 4: negative qty or price - SKIPPED
+2026-08-14 13:51:44,643 - INFO - Row 5: Successfully processed order 4.
+2026-08-14 13:51:44,643 - INFO - Finished reading input CSV

@@ -3,19 +3,19 @@
 ## Topics Covered
 
 - Functions:
-    -Parameters 
-    -Arguments
-        -Default Arguments 
-        -Arbitary Arguments (*args)
-        -Keyword Arbitary Arguments (*kwargs)\
-    -Scope
-    -Lambda Functions
-    -Built-inFunctions():
-        -map()
-        -filter()
-        -zip()
-        -enumerate()
-    -Modules
+    - Parameters 
+    - Arguments
+        - Default Arguments 
+        - Arbitary Arguments (*args)
+        - Keyword Arbitary Arguments (*kwargs)\
+    - Scope
+    - Lambda Functions
+    - Built-inFunctions():
+        - map()
+        - filter()
+        - zip()
+        - enumerate()
+    - Modules
 
 
 ## Exercises
