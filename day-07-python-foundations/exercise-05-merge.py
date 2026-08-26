@@ -1,4 +1,4 @@
-# import numpy as np
+# solved by both generator and group_by approach
 import pandas as pd
 BACKUP_BOOK_FACTS = {
     "Pride and Prejudice": {"author": "Jane Austen", "first_publish_year": 1813},
