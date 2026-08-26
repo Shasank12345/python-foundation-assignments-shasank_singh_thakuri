@@ -1,0 +1,5 @@
+Hello, this is a test file.
+Python makes file handling simple and efficient.
+This line is used to demonstrate multi-line writing.
+Generators are a great way to handle large datasets lazily.
+End of file.
