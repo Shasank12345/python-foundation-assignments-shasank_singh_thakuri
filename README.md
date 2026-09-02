@@ -17,5 +17,5 @@ This repository contains my assignments and practice exercises from the Python F
 - [x] Day 3: Function and Modules 
 - [x] Day 4: Exception Handling and Logging
 - [x] Day 5: Generators, Lambda Functions, and Comprehensions
-- [ ] Day 6:
+- [x] Day 6: Decorators and OOP
 - [x] Day 7: Data Analysis with Pandas and APIs
